@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: training-svc2
+  profiles:
+    active: dev
+server:
+  port: 8082
+  tomcat:
+    basedir: tomcat
+    accesslog:
+      enabled: true
+    
+training:
+  svc1: 
+    url: http://localhost:8081

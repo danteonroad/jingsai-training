@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: training-svc1
+server:
+  port: 8081
+  
+businessName: 业务名称

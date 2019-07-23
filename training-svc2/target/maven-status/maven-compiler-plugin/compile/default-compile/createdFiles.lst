@@ -1,0 +1,4 @@
+org/dante/ccb/training/TrainingSvc2Application.class
+org/dante/ccb/training/controller/APIController.class
+org/dante/ccb/training/controller/HealthController.class
+org/dante/ccb/training/service/BootstrapService.class
